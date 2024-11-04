@@ -44,3 +44,11 @@ ul,
 ol {
 	list-style: none;
 }
+
+:root {
+	--red: #de0a34;
+	--yellow: #f7c60a;
+	--white: #f5f5f5;
+	--black: #212121;
+	--gray: #666666;
+}
